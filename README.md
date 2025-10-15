@@ -14,6 +14,14 @@ The project is hosted on GitHub Pages and can be viewed live at the following li
 
 ---
 
+## 🎓 Course Certificate
+
+You can view my official certificate for completing this course on Coursera:
+
+**[View Certificate of Completion](https://www.coursera.org/account/accomplishments/certificate/VL7Q3CIJL3K4 )**
+
+---
+
 ## ✅ Validation
 
 The code has been successfully validated using industry-standard tools:
