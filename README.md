@@ -2,7 +2,7 @@
 
 This project is a simple, single-page website created as the final assignment for the **["Introduction to HTML5"](https://www.coursera.org/learn/html )** course, offered by the **University of Michigan** on Coursera.
 
-The primary goal was to build a semantic and accessible webpage using only HTML5, applying all the core concepts taught in the course.
+The primary goal was to build a semantic and accessible webpage using only HTML5. The final code has been validated to ensure it meets modern web standards.
 
 ---
 
@@ -11,6 +11,15 @@ The primary goal was to build a semantic and accessible webpage using only HTML5
 The project is hosted on GitHub Pages and can be viewed live at the following link:
 
 **[https://oarthurma.github.io/jrpg-switch-playlist/](https://oarthurma.github.io/jrpg-switch-playlist/ )**
+
+---
+
+## ✅ Validation
+
+The code has been successfully validated using industry-standard tools:
+
+*   **[W3C Markup Validation Service](https://validator.w3.org/ ):** Passed with no errors, ensuring the HTML is syntactically correct and follows W3C standards.
+*   **[WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/ ):** Passed with 0 errors, confirming the project meets key accessibility guidelines.
 
 ---
 
