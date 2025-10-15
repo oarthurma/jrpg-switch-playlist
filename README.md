@@ -2,7 +2,7 @@
 
 This project is a simple, single-page website created as the final assignment for the **["Introduction to HTML5"](https://www.coursera.org/learn/html )** course, offered by the **University of Michigan** on Coursera.
 
-The primary goal was to build a semantic and accessible webpage using only HTML5. The final code has been validated to ensure it meets modern web standards.
+The primary goal was to build a semantic and accessible webpage using only HTML. The final code has been validated to ensure it meets modern web standards.
 
 ---
 
